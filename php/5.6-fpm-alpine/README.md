@@ -1,0 +1,1 @@
+官方镜像 php:5.6-fpm-alpine 添加了GD、mysql、mysqli、pdo_mysql.
